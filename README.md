@@ -1,4 +1,4 @@
-# 🇮🇳 EDA on Indian Team ODI Matches (1971 - 2024) — Statistical Analysis & Bayes Modeling
+# EDA on Indian Team ODI Matches (1971 - 2024) - Statistical Analysis & Bayes Modeling
 
 This project presents a comprehensive **statistical analysis** and **probabilistic modeling** of India’s performance in ODI (One Day International) cricket matches from **1971 to 2024**. It uses Python and key data science libraries to explore match trends, player stats, and conditional probabilities with **Bayes' Theorem**.
 
@@ -92,6 +92,9 @@ The dataset includes:
 ## 👨‍💻 Author
 Made with ❤️ by [Vedant-303](https://github.com/Vedant-303)
 Cricket buff | Data Science Enthusiast | Pattern Seeker 🧠
+
+### 🔗 Connect with Me
+[Vedant Jeughael](https://www.linkedin.com/in/vedantjeughale/)
 
 ---
 
