@@ -94,7 +94,7 @@ Made with ❤️ by [Vedant-303](https://github.com/Vedant-303)
 Cricket buff | Data Science Enthusiast | Pattern Seeker 🧠
 
 ### 🔗 Connect with Me
-[Vedant Jeughael](https://www.linkedin.com/in/vedantjeughale/)
+[Vedant Jeughale](https://www.linkedin.com/in/vedantjeughale/)
 
 ---
 
